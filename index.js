@@ -8,7 +8,7 @@ const app = express();
 // Enable CORS for all routes
 app.use(cors());
 
-app.get("/getChatData", (req, res) => {
+app.get("/getChatsData", (req, res) => {
   const data = responseData;
   res.status(200).send(data);
 });
