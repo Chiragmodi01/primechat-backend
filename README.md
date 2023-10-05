@@ -1,3 +1,3 @@
-# quizapp-backend
+# primechat-backend
 
-Backend for quiz app created with NodeJs and Express.
+Backend for chat app created with NodeJs and Express.
